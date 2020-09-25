@@ -5,4 +5,4 @@
  **Projects** 
   * [Hand written digit classification](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Hand_Written_Digits_Classification.ipynb)
   
-  
+  * Classification using CNN
