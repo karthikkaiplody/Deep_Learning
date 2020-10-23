@@ -2,9 +2,9 @@
 
 # Deep Learning
  **Basic Building blocks of Deep Learning**
-  * [Implentation of Activation Functions in python](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Implementing_the_Activation_Functions.ipynb)
-  * [Neural Network](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Neural_Network.ipynb)
-  * [Matrix Manipulation](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Matrix_Manipulation.ipynb)
+  * [Implentation of Activation Functions in python](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Implementing_the_Activation_Functions.ipynb)
+  * [Neural Network](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Neural_Network.ipynb)
+  * [Matrix Manipulation](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Matrix_Manipulation.ipynb)
  
  **Projects** 
   * [Hand written digit classification](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Hand_Written_Digits_Classification.ipynb)
