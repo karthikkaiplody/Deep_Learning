@@ -5,9 +5,10 @@
   * [Implentation of Activation Functions in python](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Implementing_the_Activation_Functions.ipynb)
   * [Neural Network](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Neural_Network.ipynb)
   * [Matrix Manipulation](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Matrix_Manipulation.ipynb)
+  * [Cost Function](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Basics/Cost_Functions.ipynb)
  
  **Projects** 
-  * [Hand written digit classification](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Hand_Written_Digits_Classification.ipynb)
+  * [Hand written digit classification](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Projects/Hand_Written_Digits_Classification.ipynb)
   
  
 
