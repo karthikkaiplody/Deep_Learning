@@ -9,6 +9,7 @@
  
  **Projects** 
   * [Hand written digit classification](https://github.com/KarthikKaiplody/Deep_Learning/blob/master/Projects/Hand_Written_Digits_Classification.ipynb)
+    A multiclass classification problem. 
   
  
 
